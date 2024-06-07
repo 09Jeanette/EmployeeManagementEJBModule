@@ -2,7 +2,7 @@
 
 **Description:**
 
-EmployeeManagementEJBModule is a Java EE project developed for managing employee data within an enterprise application. It includes entities and business logic for CRUD operations on employee records, along with additional functionality such as computing statistics like average age and gender distribution.
+EmployeeManagementEJBModule is a Java EE project developed for managing employee data within an enterprise application. It includes entities and business logic for CRUD operations on employee records, along with additional functionality such as computing statistics like average age,youngest employee and gender distribution.
 
 **Features:**
 - CRUD operations for employee records
@@ -16,7 +16,7 @@ EmployeeManagementEJBModule is a Java EE project developed for managing employee
 
 **Installation:**
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone <[repository-url](https://github.com/09Jeanette/EmployeeManagementEJBModule)>`
 2. Import the project into your IDE (e.g., NetBeans)
 
 
