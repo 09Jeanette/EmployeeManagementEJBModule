@@ -16,6 +16,4 @@ EmployeeManagementEJBModule is a Java EE project developed for managing employee
 
 
 
-**License:**
 
-This project is licensed under the [MIT License](LICENSE).
